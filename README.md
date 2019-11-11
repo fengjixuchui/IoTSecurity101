@@ -20,7 +20,8 @@
 6. [Smart Bulb Offers Light, Color, Music, and… Data Exfiltration?](https://www.checkmarx.com/blog/smart-bulb-exfiltration/)
 7. [Besder-IPCamera analysis](http://blog.0x42424242.in/2019/04/besder-investigative-journey-part-1_24.html)
 8. [Smart Lock](https://blog.rapid7.com/2019/08/01/r7-2019-18-multiple-hickory-smart-lock-vulnerabilities/)
-
+9. [Subaru Head Unit Jailbreak](https://github.com/sgayou/subaru-starlink-research/blob/master/doc/README.md)
+10. [Jeep Hack](http://illmatics.com/Remote%20Car%20Hacking.pdf)
 
 ## Contents
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -108,16 +109,20 @@
 ### ***Labs for Practice*** ####
 - [IoT Goat](https://github.com/scriptingxss/IoTGoat)
 
-### ***Exploitation Tools & OS***
-- [Expliot - IoT Exploitation framework - by Aseemjakhar](https://gitlab.com/expliot_framework/expliot)
+### ***IoT Pentesting OSes***
+- [Sigint OS- LTE IMSI Catcher](https://www.sigintos.com/downloads/)
+- [Instatn-gnuradio OS - For Radio Signals Testing](https://github.com/bastibl/instant-gnuradio)
 - [AttifyOS - IoT Pentest OS - by Aditya Gupta](https://github.com/adi0x90/attifyos)
 - [Ubutnu Best Host Linux for IoT's - Use LTS](https://www.ubuntu.com/)
+
+### ***Exploitation Tools***
+- [Expliot - IoT Exploitation framework - by Aseemjakhar](https://gitlab.com/expliot_framework/expliot)
 - [A Small, Scalable Open Source RTOS for IoT Embedded Devices](https://www.zephyrproject.org/)
 - [Skywave Linux- Software Defined Radio for Global Online Listening](https://skywavelinux.com/)
 - [Routersploit (Exploitation Framework for Embedded Devices)](https://github.com/threat9/routersploit)
 - [IoTSecFuzz (comprehensive testing for IoT device)](https://gitlab.com/invuls/iot-projects/iotsecfuzz)
 
-### ***Reverse Enginnering Tools***
+### ***Reverse Engineering Tools***
 - [IDA Pro](https://www.youtube.com/watch?v=fgMl0Uqiey8)
 - [GDB](https://www.youtube.com/watch?v=fgMl0Uqiey8)
 - [Radare2](https://radare.gitbooks.io/radare2book/content/)
