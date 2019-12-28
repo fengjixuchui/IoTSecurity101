@@ -71,6 +71,8 @@
 23. https://quentinkaiser.be/
 24. https://blog.quarkslab.com
 25. https://blog.ice9.us/
+26. https://labs.f-secure.com/
+27. https://mg.lol/blog/
 
 ### ***Awesome Nmap CheatSheet***
 - https://github.com/gnebbia/nmap_tutorial
@@ -100,6 +102,10 @@
 7. [Besim ALTINOK - IoT - Hardware - Wireless](https://www.youtube.com/channel/UCnIV7A3kDL4JXJEljpW6TRQ/playlists)
 8. [Ghidra Ninja](https://www.youtube.com/channel/UC3S8vxwRfqLBdIhgRlDRVzw)
 
+
+### ***Vehicle Security Resources***
+
+- https://github.com/jaredthecoder/awesome-vehicle-security
 
 ### ***IoT security vulnerabilites checking guides***
 
