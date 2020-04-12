@@ -2,14 +2,16 @@
 
 
 ********************************************************************************************************************************
-## **Approach Methodology** 
+## Approach Methodology
 
-  1. Network 
-  2. Web (Front & Backend and Web services)
-  3. Mobile App(Android & iOS)
-  4. Wireless Connectivity 
-  5. Firmware Pentesting(Hardware or IoT device OS)
-  6. Hardware Level Approach 
+#####  1. Network 
+#####  2. Web (Front & Backend and Web services
+#####  3. Mobile App (Android & iOS)
+#####  4. Wireless Connectivity (Zigbee , WiFi , Bluetooth , etc)
+#####  5. Firmware Pentesting (OS of IoT Devices)
+#####  6. Hardware Hacking & Fault Injections & SCA Attacks
+#####  7. Storage Medium
+#####  8. I/O Ports
   
 ********************************************************************************************************************************
 ### ***To seen Hacked devices***
@@ -25,26 +27,18 @@
 9. [Subaru Head Unit Jailbreak](https://github.com/sgayou/subaru-starlink-research/blob/master/doc/README.md)
 10. [Jeep Hack](http://illmatics.com/Remote%20Car%20Hacking.pdf)
 
-********************************************************************************************************************************
-## Contents
-
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 ********************************************************************************************************************************
-### ***Telegram groups for IoT Security***
+### ***Chat groups for IoT Security***
 
 - <https://t.me/iotsecurity1011>
+- <https://www.reddit.com/r/IoTSecurity101/>
 - <https://t.me/hardwareHackingBrasil>
 - <https://t.me/joinchat/JAMxOg5YzdkGjcF3HmNgQw>
-
-********************************************************************************************************************************
-### ***Discord Group for IoT Security and CTF***
-
 - https://discord.gg/EH9dxT9
 
 ********************************************************************************************************************************
-### ***Books***
+### ***Books For IoT Pentesting***
 
 - [Android Hacker's Handbook](https://www.amazon.in/Android-Hackers-Handbook-MISL-WILEY-Joshua/dp/812654922X)
 - [Hacking the Xbox](https://www.nostarch.com/xboxfree)
@@ -88,7 +82,7 @@
 25. https://blog.ice9.us/
 26. https://labs.f-secure.com/
 27. https://mg.lol/blog/
-
+28. https://cjhackerz.net/
 ********************************************************************************************************************************
 ### ***Awesome CheatSheets***
 
@@ -137,6 +131,7 @@
 - [Reflecting upon OWASP TOP-10 IoT Vulnerabilities](https://embedi.org/blog/reflecting-upon-owasp-top-10-iot-vulnerabilities/)
 - [OWASP IoT Top 10 2018 Mapping Project](https://scriptingxss.gitbook.io/owasp-iot-top-10-mapping-project/)
 - [Firmware Pentest Guide](https://scriptingxss.gitbook.io/firmware-security-testing-methodology/)
+- [Hardware toolkits for IoT security analysis](https://defcon-nn.ru/0x0B/Hardware%20toolkits%20for%20IoT%20security%20analysis.pdf)
 
 ********************************************************************************************************************************
 ### ***IoT Gateway Software***
@@ -173,7 +168,7 @@
 
 - [IDA Pro](https://www.youtube.com/watch?v=fgMl0Uqiey8)
 - [GDB](https://www.youtube.com/watch?v=fgMl0Uqiey8)
-- [Radare2](https://radare.gitbooks.io/radare2book/content/)
+- [Radare2](https://radare.gitbooks.io/radare2book/content/) | [cutter](https://cutter.re/)
 - [Ghidra](https://ghidra-sre.org/)
 
 ********************************************************************************************************************************
@@ -302,9 +297,13 @@
 ********************************************************************************************************************************
 ### ***Mobile security (Android & iOS)***
 
- - [Android](https://www.packtpub.com/hardware-and-creative/learning-pentesting-android-devices)
- - [Android Pentest Video Course](https://www.youtube.com/watch?v=zHknRia3I6s&list=PLWPirh4EWFpESLreb04c4eZoCvJQJrC6H)
+ - [Android App Reverse Engineering 101](https://maddiestone.github.io/AndroidAppRE/)
+ - [Android Application pentesting book](https://www.packtpub.com/hardware-and-creative/learning-pentesting-android-devices)
+ - [Android Pentest Video Course-TutorialsPoint](https://www.youtube.com/watch?v=zHknRia3I6s&list=PLWPirh4EWFpESLreb04c4eZoCvJQJrC6H)
  - [IOS Pentesting](https://web.securityinnovation.com/hubfs/iOS%20Hacking%20Guide.pdf?)
+ - [OWASP Mobile Security Testing Guide](https://owasp.org/www-project-mobile-security-testing-guide/)
+ - [Android Tamer - Android Tamer is a Virtual / Live Platform for Android Security professionals](https://androidtamer.com/)
+ 
  
 *******************************************************************************************************************************
 ### ***Online Assemblers***
@@ -332,6 +331,7 @@
  - [Fuzzing Embedded Linux Devices](https://www.novetta.com/2018/07/fuzzing-embedded-linux-devices/?__cf_chl_captcha_tk__=f07f3f76e61b43f9ae6340e94cf4adeaec87977e-1585030089-0-AYkRNbh1wpUia0P5wBgrRfhf92Uy6Pl2mEEBOXi2FUvxROOJ9obK4ZIS78Y4iCRrMdi3umwQrJEyF0u3EPwHPu3_22f5PwOvVDFC0QwFPyw7LkY5bLuansI_8uoEunuLIEQ1VPIZHFpht1vT0_rW4YrYGc8osJZpubAhXfyZe1G7U_ibpZj9tdrUE6SwgA_Ph0io4LRfbjuvpeM03NHuc1sTTqRVdkWiw47kmr9uSAK10ZmQEvE7zpbpkEJM2slchjdYq6hziM3L5l8vB-eEm_JVxsSHbGfdDM3kSfTw3oXlYkvxvLy_llSyyefuub4yOBrqNgzV1Gj_PDTmuRTMxobGo7vZaRdr2LgOXML58kpG6NTDLb3A4YzwVw9u32ErRh4Ab89vn90RsHlWnU928Oc)
  - [Emulating ARM Router Firmware](https://azeria-labs.com/emulating-arm-firmware/)
  - [Reversing Firmware With Radare](https://www.bored-nerds.com/reversing/radare/automotive/2019/07/07/reversing-firmware-with-radare.html)
+ - [Samsung Firmware Magic](https://github.com/chrivers/samsung-firmware-magic)
  
 ********************************************************************************************************************************
 ### ***Firmware samples to pentest***
@@ -388,10 +388,13 @@
    - [All Attacks](https://yifan.lu/)
    
 ********************************************************************************************************************************   
-### ***Pentesting Guides***
+### ***Awesome IoT Pentesting Guides***
 
   - [Shodan Pentesting Guide](https://community.turgensec.com/shodan-pentesting-guide/)
   - [Car Hacking Practical Guide 101](https://medium.com/@yogeshojha/car-hacking-101-practical-guide-to-exploiting-can-bus-using-instrument-cluster-simulator-part-i-cd88d3eb4a53)
+  - [OWASP Firmware Security Testing Methodology
+](https://scriptingxss.gitbook.io/firmware-security-testing-methodology/)
+  
  
 ******************************************************************************************************************************** 
 ## ***Vulnerable IoT and Hardware Applications***
@@ -409,3 +412,19 @@
   - SS7 Network: https://www.blackhat.com/asia-17/arsenal.html#damn-vulnerable-ss7-network
 
  -  VoIP : https://www.vulnhub.com/entry/hacklab-vulnvoip,40/
+
+
+*******************************************************************************************************************************
+## ***follow the people***
+
+-  [Jilles](https://twitter.com/jilles_com)
+-  [Aseem Jakhar](https://twitter.com/aseemjakhar)
+-  [Cybergibbons](https://twitter.com/cybergibbons)
+-  [Ilya Shaposhnikov](https://twitter.com/drakylar)
+-  [Mark C.](https://twitter.com/LargeCardinal)
+-  [A-a-ron Guzman](https://twitter.com/scriptingxss)
+-  [Arun Mane](https://twitter.com/rootkill3r)
+-  [Yashin Mehaboobe](https://twitter.com/YashinMehaboobe)
+-  [Arun Magesh](https://www.linkedin.com/in/marunmagesh)
+
+
