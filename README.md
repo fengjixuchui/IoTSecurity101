@@ -48,9 +48,11 @@
 - [Hardware Hacking: Have Fun while Voiding your Warranty](https://www.elsevier.com/books/hardware-hacking/grand/978-1-932266-83-2)
 - [Linksys WRT54G Ultimate Hacking](https://www.amazon.com/Linksys-WRT54G-Ultimate-Hacking-Asadoorian/dp/1597491667)
 - [Linux Binary Analysis](https://www.packtpub.com/networking-and-servers/learning-linux-binary-analysis)
-- [Firmware](https://www.amazon.com/Firmware-Handbook-Embedded-Technology/dp/075067606X)
+- [The Firmware Handbook](https://www.amazon.com/Firmware-Handbook-Embedded-Technology/dp/075067606X)
 - [Hardware Hacking Handbook](https://books.google.co.in/books?id=DEqatAEACAAJ&source=gbs_navlinks_s)
 - [inside radio attack and defense](https://books.google.co.in/books?id=71NSDwAAQBAJ&printsec=copyright&redir_esc=y#v=onepage&q&f=false)
+- [Pentest Hardware](https://github.com/unprovable/PentestHardware/)
+- [The Art of Pcb Reverse Engineering](https://www.amazon.in/Art-Pcb-Reverse-Engineering-Unravelling/dp/1499323441)
 
 ********************************************************************************************************************************
 ### ***Blogs for iotpentest***
@@ -83,6 +85,9 @@
 26. https://labs.f-secure.com/
 27. https://mg.lol/blog/
 28. https://cjhackerz.net/
+29. https://github.com/sponsors/bunnie/
+
+
 ********************************************************************************************************************************
 ### ***Awesome CheatSheets***
 
@@ -366,7 +371,7 @@
    -	[Serial Terminal Basics](https://learn.sparkfun.com/tutorials/terminal-basics/all)
    -  [Reverse Engineering Serial Ports](http://www.devttys0.com/2012/11/reverse-engineering-serial-ports/)
    -  [REVERSE ENGINEERING ARCHITECTURE AND PINOUT OF CUSTOM ASICS](https://sec-consult.com/en/blog/2019/02/reverse-engineering-architecture-pinout-plc/)
-
+   -  [ChipWhisperer - Hardware attacks](http://wiki.newae.com/Main_Page)
 ********************************************************************************************************************************
 ### ***UART***
 
@@ -419,8 +424,12 @@
 ## ***follow the people***
 
 -  [Jilles](https://twitter.com/jilles_com)
+-  [Joe Fitz](https://twitter.com/securelyfitz)
 -  [Aseem Jakhar](https://twitter.com/aseemjakhar)
 -  [Cybergibbons](https://twitter.com/cybergibbons)
+-  [Jasper](https://twitter.com/jzvw)
+-  [Dave Jones](https://twitter.com/eevblog)
+-  [bunnie](https://twitter.com/bunniestudios)
 -  [Ilya Shaposhnikov](https://twitter.com/drakylar)
 -  [Mark C.](https://twitter.com/LargeCardinal)
 -  [A-a-ron Guzman](https://twitter.com/scriptingxss)
