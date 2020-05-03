@@ -26,6 +26,7 @@
 8. [Smart Lock](https://blog.rapid7.com/2019/08/01/r7-2019-18-multiple-hickory-smart-lock-vulnerabilities/)
 9. [Subaru Head Unit Jailbreak](https://github.com/sgayou/subaru-starlink-research/blob/master/doc/README.md)
 10. [Jeep Hack](http://illmatics.com/Remote%20Car%20Hacking.pdf)
+11. [Dropcam hacking](https://www.defcon.org/images/defcon-22/dc-22-presentations/Moore-Wardle/DEFCON-22-Colby-Moore-Patrick-Wardle-Synack-DropCam-Updated.pdf)
 
 
 ********************************************************************************************************************************
@@ -41,7 +42,7 @@
 ### ***Books For IoT Pentesting***
 
 - [Android Hacker's Handbook](https://www.amazon.in/Android-Hackers-Handbook-MISL-WILEY-Joshua/dp/812654922X)
-- [Hacking the Xbox](https://www.nostarch.com/xboxfree)
+- [Hacking the Xbox](https://www.nostarch.com/xboxfree) - Openbook
 - [Car hacker's handbook](http://opengarages.org/handbook)
 - [IoT Penetration Testing Cookbook](https://www.packtpub.com/networking-and-servers/iot-penetration-testing-cookbook)
 - [Abusing the Internet of Things](https://www.amazon.in/Abusing-Internet-Things-Blackouts-Freakouts-ebook/dp/B013VQ7N36)
@@ -51,8 +52,9 @@
 - [The Firmware Handbook](https://www.amazon.com/Firmware-Handbook-Embedded-Technology/dp/075067606X)
 - [Hardware Hacking Handbook](https://books.google.co.in/books?id=DEqatAEACAAJ&source=gbs_navlinks_s)
 - [inside radio attack and defense](https://books.google.co.in/books?id=71NSDwAAQBAJ&printsec=copyright&redir_esc=y#v=onepage&q&f=false)
-- [Pentest Hardware](https://github.com/unprovable/PentestHardware/)
+- [Pentest Hardware](https://github.com/unprovable/PentestHardware/) - Openbook
 - [The Art of Pcb Reverse Engineering](https://www.amazon.in/Art-Pcb-Reverse-Engineering-Unravelling/dp/1499323441)
+- [Internet of Things Security Encyclopedia](https://iot-security.wiki/) - Openbook
 
 ********************************************************************************************************************************
 ### ***Blogs for iotpentest***
@@ -222,6 +224,7 @@
 ********************************************************************************************************************************
 ### ***Radio IoT Protocols Overview***
 
+- [SDR Notes](https://github.com/notpike/SDR-Notes)
 - [Understanding Radio](https://www.taitradioacademy.com/lessons/introduction-to-radio-communications-principals/)
 - [Signal Processing]()
 - [Software Defined Radio](https://www.allaboutcircuits.com/technical-articles/introduction-to-software-defined-radio/)
