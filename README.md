@@ -321,6 +321,7 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
 ********************************************************************************************************************************
 ### RADIO HACKER QUICK START GUIDE
 
+- [Complete course in Software Defined Radio (SDR) by Michael Ossmann](https://greatscottgadgets.com/sdr/)
 - [SDR Notes - Radio IoT Protocols Overview](https://github.com/notpike/SDR-Notes)
 - [Understanding Radio](https://www.taitradioacademy.com/lessons/introduction-to-radio-communications-principals/)
 - [Introduction to Software Defined Radio](https://www.allaboutcircuits.com/technical-articles/introduction-to-software-defined-radio/)
@@ -478,12 +479,14 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
 #### Dev
  - [Writing a Bootloader](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/)
 
+
 #### Hacking
  - [Pwn the ESP32 Secure Boot](https://limitedresults.com/2019/09/pwn-the-esp32-secure-boot/)
  - [Pwn the ESP32 Forever: Flash Encryption and Sec. Boot Keys Extraction](https://limitedresults.com/2019/11/pwn-the-esp32-forever-flash-encryption-and-sec-boot-keys-extraction/)
  - [Amlogic S905 SoC: bypassing the (not so) Secure Boot to dump the BootROM](https://fredericb.info/2016/10/amlogic-s905-soc-bypassing-not-so.html) / [another-link](https://www.cnx-software.com/2016/10/06/hacking-arm-trustzone-secure-boot-on-amlogic-s905-soc/)
  - [Defeating Secure Boot with Symlink Attacks](https://www.anvilsecure.com/blog/defeating-secure-boot-with-symlink-attacks.html)
  - [PS4 Aux Hax 5 & PSVR Secure Boot Hacking with Keys by Fail0verflow!](https://www.psxhax.com/threads/ps4-aux-hax-5-psvr-secure-boot-hacking-with-keys-by-fail0verflow.12820/)
+ - [ECLYPSIUM DISCOVERS MULTIPLE VULNERABILITIES AFFECTING 129 DELL MODELS VIA DELL REMOTE OS RECOVERY AND FIRMWARE UPDATE CAPABILITIES](https://eclypsium.com/2021/06/24/biosdisconnect/)
 
 ********************************************************************************************************************************
 
@@ -495,7 +498,6 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
  - [Another bunch of Atricles for EMMC](https://hackaday.com/tag/emmc/)
  - [Unleash your smart-home devices: Vacuum Cleaning Robot Hacking](https://media.ccc.de/v/34c3-9147-unleash_your_smart-home_devices_vacuum_cleaning_robot_hacking#t=1810)
  - [Hands-On IoT Hacking: Rapid7 at DEF CON 30 IoT Village, Part 1](https://www.rapid7.com/blog/post/2022/10/18/hands-on-iot-hacking-rapid7-at-def-con-30-iot-village-part-1/)
- - 
 
 
 ********************************************************************************************************************************
@@ -527,7 +529,6 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
    - [REVERSE ENGINEERING ARCHITECTURE AND PINOUT OF CUSTOM ASICS](https://sec-consult.com/en/blog/2019/02/reverse-engineering-architecture-pinout-plc/)
    - [ChipWhisperer - Hardware attacks](http://wiki.newae.com/Main_Page)
    - [Hardware hacking tutorial: Dumping and reversing firmware](https://ivanorsolic.github.io/post/hardwarehacking1/)
-   - 
    
 
 #### SPI
@@ -567,7 +568,7 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
    - [fuzzing, binary analysis, IoT security, and general exploitation](https://github.com/0xricksanchez/paper_collection)
    - [Espressif ESP32: Bypassing Encrypted Secure Boot(CVE-2020-13629)](https://raelize.com/blog/espressif-esp32-bypassing-encrypted-secure-boot-cve-2020-13629/)
    - [Breaking AES with ChipWhisperer - Piece of scake (Side Channel Analysis 100)](https://www.youtube.com/watch?v=FktI4qSjzaE&ab_channel=LiveOverflow)
-   - [https://www.youtube.com/watch?v=4urMITJKQQs&ab_channel=stacksmashing](https://arstechnica.com/information-technology/2019/06/researchers-use-rowhammer-bitflips-to-steal-2048-bit-crypto-key/)
+   - [Researchers use Rowhammer bit flips to steal 2048-bit crypto key](https://arstechnica.com/information-technology/2019/06/researchers-use-rowhammer-bitflips-to-steal-2048-bit-crypto-key/)
 
 #### Glitching attacks
 
@@ -603,7 +604,7 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
 ********************************************************************************************************************************
 ### ICS
   
-  - [ICS-Security](https://github.com/V33RU/IoTSecurity101/blob/master/Industrial%20Control%20Systems.md)
+  - [ICS-Security](https://github.com/V33RU/IoTSecurity101/blob/master/ICS/Industrial%20Control%20Systems.md)
 
  
 ******************************************************************************************************************************** 
@@ -614,7 +615,7 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
 ******************************************************************************************************************************** 
 ## Vulnerable IoT and Hardware Applications
 
-  - IoT Goat : https://github.com/scriptingxss/IoTGoat
+  - IoT Goat : https://github.com/OWASP/IoTGoat
 
   - IoT : https://github.com/Vulcainreo/DVID
 
