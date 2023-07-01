@@ -42,6 +42,7 @@
    - [Awesome IoT Pentesting Guides](#Awesome-IoT-Pentesting-Guides)
    - [Fuzzing Things](#Fuzzing-Things)
    - [IoT Lab Setup guide for corporate/individual](https://github.com/IoT-PTv/IoT-Lab-Setup)
+   - [FlipperZero](https://github.com/V33RU/IoTSecurity101#flipperzero)
 
  - Network
  - Web IoT Message Protocols
@@ -133,6 +134,7 @@ by Jack Ganssle ](https://www.amazon.com/Firmware-Handbook-Embedded-Technology/d
 - [Pentest Hardware](https://github.com/unprovable/PentestHardware/) - Openbook -2018
 - [Gray Hat Hacking: The Ethical Hacker's Handbook, Fifth Edition 5th Edition by by Daniel Regalado , Shon Harris , Allen Harper , Chris Eagle , Jonathan Ness , Branko Spasojevic , Ryan Linn , Stephen Sims](https://www.amazon.in/Gray-Hat-Hacking-Ethical-Handbook-ebook/dp/B07D3J9J4H) - 2018
 - [Practical Hardware Pentesting](https://www.packtpub.com/product/practical-hardware-pentesting/9781789619133?_ga=2.224205017.333884789.1668314814-101815837.1668314814) - 2021
+- [Manual PCB-RE: The Essentials](https://www.amazon.com/Manual-PCB-RE-Essentials-Keng-Tiong/dp/B0974Z3NDS)
 - [The Hardware Hacking Handbook: Breaking Embedded Security with Hardware Attacks Front Cover Jasper van Woudenberg, Colin O'Flynn](https://books.google.co.in/books?id=DEqatAEACAAJ&source=gbs_navlinks_s) - 2021
 - [Practical IoT Hacking-The Definitive Guide to Attacking the Internet of Things
 by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, Beau Woods](https://nostarch.com/practical-iot-hacking) - 2021
@@ -140,6 +142,7 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
 - [PatrIoT: practical and agile threat research for IoT by Emre Süren](https://link.springer.com/article/10.1007/s10207-022-00633-3) - 2022
 - [Practical Hardware Pentesting - Second Edition](https://www.packtpub.com/product/practical-hardware-pentesting-second-edition/9781803249322) - 2023
 - [Blue Fox: Arm Assembly Internals & Reverse Engineering](https://www.wiley.com/en-gb/Blue+Fox%3A+Arm+Assembly+Internals+%26+Reverse+Engineering-p-9781119745303) - 2023
+- [Fuzzing Against the Machine: Automate vulnerability research with emulated IoT devices on QEMU](https://www.packtpub.com/product/fuzzing-against-the-machine/9781804614976) - 2023
 
 ********************************************************************************************************************************
 ### Blogs for iotpentest
@@ -183,6 +186,7 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
 - https://naehrdine.blogspot.com/
 - https://limitedresults.com/
 - https://fail0verflow.com/blog/
+- https://www.exploitsecurity.io/blog
 
 ********************************************************************************************************************************
 ### Awesome CheatSheets
@@ -358,6 +362,9 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
 - [Introduction to SS7 Signaling](https://www.patton.com/whitepapers/Intro_to_SS7_Tutorial.pdf)
 - [Breaking LTE on Layer Two](https://alter-attack.net/)
 
+#### Hardware Tools 
+- [Fake BTS Detector (SCL-8521)](https://www.shoghicom.com/fake-bts-detector.php)
+
 ********************************************************************************************************************************
 ### Zigbee ALL Stuff
 
@@ -370,7 +377,7 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
 - [Security Analysis of Zigbee Networks with Zigator and GNU Radio](https://mews.sv.cmu.edu/research/zigator/testbed-grcon2020-slides.pdf)
 - [Low-Cost ZigBee Selective Jamming](https://www.bastibl.net/reactive-zigbee-jamming/)
 
-#### SW TOOLS
+#### SW Tools
 - [zigbear](https://github.com/philippnormann/zigbear)
 - [ZigDiggity](https://github.com/BishopFox/zigdiggity)
 - [Zigator](https://github.com/akestoridis/zigator)
@@ -403,6 +410,7 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
    - [gattacker](https://github.com/securing/gattacker)
    - [BTLEjack Bluetooth Low Energy Swiss army knife](https://github.com/virtualabs/btlejack)
    - [bluing-An intelligence gathering tool for hacking Bluetooth](https://github.com/fO-000/bluing)
+   - [DEDSEC-Bluetooth-exploit](https://github.com/0xbitx/DEDSEC-Bluetooth-exploit)
  
  #### Hardware for bluetooth hacking
   
@@ -499,6 +507,7 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
  - [Qiling & Binary Emulation for automatic unpacking](https://kernemporium.github.io/articles/en/auto_unpacking/m.html)
  - [Reverse engineering with #Ghidra: Breaking an embedded firmware encryption scheme](https://www.youtube.com/watch?v=4urMITJKQQs&ab_channel=stacksmashing)
  - [Simulating and hunting firmware vulnerabilities with Qiling](https://blog.vincss.net/2020/12/pt007-simulating-and-hunting-firmware-vulnerabilities-with-Qiling.html?m=1&s=09)
+
  
 ********************************************************************************************************************************
 ### Firmware samples to pentest
@@ -592,6 +601,7 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
    - [UARTBruteForcer](https://github.com/FireFart/UARTBruteForcer)
    - [UART Connections and Dynamic analysis on Linksys e1000](https://www.youtube.com/watch?v=ix6rSV2Dj44&ab_channel=Defenceindepth)
    - [Accessing and Dumping Firmware Through UART](https://www.cyberark.com/resources/threat-research-blog/accessing-and-dumping-firmware-through-uart)
+   - [UART Exploiter](https://github.com/exploitsecurityio/uart-exploiter)
 
 #### JTAG
 
@@ -640,7 +650,11 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
   - [FIRM-AFL : High-Throughput Greybox Fuzzing of IoT Firmware via Augmented Process Emulation](https://www.usenix.org/conference/usenixsecurity19/presentation/zheng)
   - [Snipuzz : Black-box Fuzzing of IoT Firmware via Message Snippet Inference](https://arxiv.org/pdf/2105.05445.pdf)
   - [fuzzing-iot-binaries] - [part1](https://blog.attify.com/fuzzing-iot-devices-part-1/) / [part2](https://blog.attify.com/fuzzing-iot-binaries-with-afl-part-ii/)
-  
+
+
+********************************************************************************************************************************
+### FlipperZero
+#### Custom firmwares
   
   
 ********************************************************************************************************************************
@@ -699,3 +713,4 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
 -  [Arun Magesh](https://www.linkedin.com/in/marunmagesh)
 -  [Mr-IoT](https://twitter.com/v33riot)
 -  [QKaiser](https://twitter.com/qkaiser)
+-  [9lyph](https://twitter.com/9lyph)
