@@ -1,4 +1,4 @@
-![](https://github.com/V33RU/IoTSecurity101/blob/master/logo.png)
+![](https://github.com/V33RU/IoTSecurity101/blob/master/Logos/IoT101-2.jpg)
 
 ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) 
 
@@ -28,55 +28,57 @@
 ## Contents 
  
  - IoT Security information
-   - [IoT Security Chat groups](#Chat-groups-for-IoT-Security)
-   - [Books](#Books-For-IoT-Pentesting)
-   - [Blogs](#Blogs-for-iotpentest)
-   - [Cheatsheets](#Awesome-CheatSheets)
+   - [IoT Security Chat groups](#chat-groups-for-iot-security)
+   - [IoT and Hardware Security Trainings](#iot-and-hardware-security-trainings)
+   - [Books](#books-for-iot-pentesting)
+   - [Blogs](#blogs-for-iotpentest)
+   - [Cheatsheets](#awesome-cheatsheets)
    - [Search Engines](#search-engines-for-exposed-iot-devices-worldwide)
-   - [CTF](#CTF-For-IoT-And-Embeddded)
-   - [Youtube](#YouTube-Channels-for-IoT-Pentesting)
-   - [Exploitation Tools](#Exploitation-Tools)
-   - [IoT Pentesting OSes](#IoT-Pentesting-OSes)
-   - [IoT Vulnerabilites Checking Guides](#IoT-Vulnerabilites-Checking-Guides)
-   - [IoT Labs](#Vulnerable-IoT-and-Hardware-Applications)
-   - [Awesome IoT Pentesting Guides](#Awesome-IoT-Pentesting-Guides)
-   - [Fuzzing Things](#Fuzzing-Things)
+   - [CTF](#ctf-for-iot-and-embeddded)
+   - [Youtube](#youtube-channels-for-iot-pentesting)
+   - [Exploitation Tools](#exploitation-tools)
+   - [IoT Pentesting OSes](#iot-pentesting-oses)
+   - [IoT Vulnerabilites Checking Guides](#iot-vulnerabilites-checking-guides)
+   - [IoT Labs](#vulnerable-iot-and-hardware-applications)
+   - [Awesome IoT Pentesting Guides](#awesome-iot-pentesting-guides)
+   - [Fuzzing Things](#fuzzing-things)
    - [IoT Lab Setup guide for corporate/individual](https://github.com/IoT-PTv/IoT-Lab-Setup)
-   - [FlipperZero](https://github.com/V33RU/IoTSecurity101#flipperzero)
+   - [FlipperZero](#flipperzero)
 
  - Network
  - Web IoT Message Protocols
- 	- [MQTT](#MQTT)
-	- [CoAP](#CoAP)
+ 	- [MQTT](#mqtt)
+	- [CoAP](#coap)
 	
  - Mobile app
  	- [Mobile security (Android & iOS)](#mobile-security-android--ios)
 	
  - Wireless Protocols
- 	- [RADIO HACKING STARTING GUIDE](#RADIO-HACKER-QUICK-START-GUIDE)
+ 	- [RADIO HACKING STARTING GUIDE](#Radio-Hacker-Quick-Start-Guide)
  	- [Cellular Hacking GSM BTS](#cellular-hacking-gsm-bts)
-	- [Zigbee](#Zigbee-ALL-Stuff)
-	- [Bluetooth](#BLE-Intro-and-SW-HW-Tools-to-pentest)
+	- [Zigbee](#zigbee-aLL-stuff)
+	- [Bluetooth](#ble-intro-and-sw-hw-tools-to-pentest)
 	- [DECT](#dect-digital-enhanced-cordless-telecommunications)
 
  - Firmware
- 	- [Reverse Engineering Tools](#Reverse-Engineering-Tools)
-	- [Online Assemblers](#Online-Assemblers)
-	- [ARM](#ARM)
-	- [Pentesting Firmwares and emulating and analyzing](#Pentesting-Firmwares-and-emulating-and-analyzing)
-	- [Firmware samples to pentest](#Firmware-samples-to-pentest)
-	- [Secureboot](#Secureboot)
+ 	- [Reverse Engineering Tools](#reverse-engineering-tools)
+	- [Online Assemblers](#online-assemblers)
+	- [ARM](#arm)
+	- [Pentesting Firmwares and emulating and analyzing](#pentesting-firmwares-and-emulating-and-analyzing)
+	- [Firmware samples to pentest](#firmware-samples-to-pentest)
+	- [Secureboot](#secureboot)
 
  - Hardware
-    - [IoT Hardware Intro](#IoT-hardware-Overview-and-Hacking)
+    - [IoT Hardware Intro](#iot-hardware-overview-and-hacking)
     - [IoT Hardware hacking Intro]
-    - [Required hardware to pentest IoT](#Hardware-Gadgets-to-pentest)
-    - [Hardware interfaces](#Attacking-Hardware-Interfaces)
-   	- [SPI](#SPI)
- 	- [UART](#UART)
-	- [JTAG](#JTAG)
+    - [Required hardware to pentest IoT](#hardware-gadgets-to-pentest)
+    - [Hardware interfaces](#attacking-hardware-interfaces)
+   	- [SPI](#spi)
+ 	- [UART](#uart)
+	- [JTAG](#jtag)
 	- [SideChannel Attacks & Glitching attacks](#sidechannel-attacks)
 	- [Glitching Attacks](#glitching-attacks)
+   
 	
  - Storage Medium
  	- [EMMC Hacking](#emmc-hacking)
@@ -116,6 +118,9 @@
 - ICS Discord group   - <https://discord.com/invite/CmDDsFK>
 
 ********************************************************************************************************************************
+### IoT and Hardware Security Trainings
+- [opensecuritytraining 2](https://p.ost2.fyi/courses)
+********************************************************************************************************************************
 ### Books For IoT Pentesting
 
 - [The Firmware Handbook (Embedded Technology) 1st Edition
@@ -143,6 +148,7 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
 - [Practical Hardware Pentesting - Second Edition](https://www.packtpub.com/product/practical-hardware-pentesting-second-edition/9781803249322) - 2023
 - [Blue Fox: Arm Assembly Internals & Reverse Engineering](https://www.wiley.com/en-gb/Blue+Fox%3A+Arm+Assembly+Internals+%26+Reverse+Engineering-p-9781119745303) - 2023
 - [Fuzzing Against the Machine: Automate vulnerability research with emulated IoT devices on QEMU](https://www.packtpub.com/product/fuzzing-against-the-machine/9781804614976) - 2023
+- [Hardware Security Training, Hands-on!](https://link.springer.com/book/10.1007/978-3-031-31034-8) - 2023
 
 ********************************************************************************************************************************
 ### Blogs for iotpentest
@@ -206,12 +212,12 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
 ********************************************************************************************************************************
 ### CTF For IoT And Embeddded
 
-- https://github.com/hackgnar/ble_ctf
-- https://www.microcorruption.com/
-- https://github.com/Riscure/Rhme-2016
-- https://github.com/Riscure/Rhme-2017
-- https://blog.exploitlab.net/2018/01/dvar-damn-vulnerable-arm-router.html
-- https://github.com/scriptingxss/IoTGoat
+- [https://github.com/hackgnar/ble_ctf](https://github.com/hackgnar/ble_ctf)
+- [https://www.microcorruption.com/](https://microcorruption.com/)
+- [https://github.com/Riscure/Rhme-2016](https://github.com/Riscure/Rhme-2016)
+- [https://github.com/Riscure/Rhme-2017](https://github.com/Riscure/Rhme-2017)
+- [https://blog.exploitlab.net/2018/01/dvar-damn-vulnerable-arm-router.html](https://blog.exploitlab.net/2018/01/dvar-damn-vulnerable-arm-router.html)
+- [https://github.com/scriptingxss/IoTGoat](https://github.com/scriptingxss/IoTGoat)
 
 ********************************************************************************************************************************
 ### YouTube Channels for IoT Pentesting
@@ -436,6 +442,9 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
   - [Sweyntooth Vulnerabilties](https://asset-group.github.io/disclosures/sweyntooth/)
   - [AIRDROP_LEAK - sniffs BLE traffic and displays status messages from Apple devices](https://github.com/hexway/apple_bleee)
   - [BRAKTOOTH: Causing Havoc on Bluetooth Link Manager](https://asset-group.github.io/disclosures/braktooth/)
+  - [Practical Introduction to BLE GATT Reverse Engineering: Hacking the Domyos EL500](https://jcjc-dev.com/2023/03/19/reversing-domyos-el500-elliptical/)
+  - [MojoBox - yet another not so smartlock](https://mandomat.github.io/2023-03-15-testing-mojobox-security/)
+  - [bluetooth-hacking](https://github.com/zedxpace/bluetooth-hacking-)
   
 ********************************************************************************************************************************
 ### DECT (Digital Enhanced Cordless Telecommunications)
@@ -531,6 +540,8 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
  - [Defeating Secure Boot with Symlink Attacks](https://www.anvilsecure.com/blog/defeating-secure-boot-with-symlink-attacks.html)
  - [PS4 Aux Hax 5 & PSVR Secure Boot Hacking with Keys by Fail0verflow!](https://www.psxhax.com/threads/ps4-aux-hax-5-psvr-secure-boot-hacking-with-keys-by-fail0verflow.12820/)
  - [ECLYPSIUM DISCOVERS MULTIPLE VULNERABILITIES AFFECTING 129 DELL MODELS VIA DELL REMOTE OS RECOVERY AND FIRMWARE UPDATE CAPABILITIES](https://eclypsium.com/2021/06/24/biosdisconnect/)
+ - [Technical Advisory – U-Boot – Unchecked Download Size and Direction in USB DFU (CVE-2022-2347)](https://research.nccgroup.com/2023/01/20/technical-advisory-u-boot-unchecked-download-size-and-direction-in-usb-dfu-cve-2022-2347/)
+ - [Breaking Secure Boot on the Silicon Labs Gecko platform](https://blog.quarkslab.com/breaking-secure-boot-on-the-silicon-labs-gecko-platform.html)
 
 ********************************************************************************************************************************
 
@@ -654,8 +665,20 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
 
 ********************************************************************************************************************************
 ### FlipperZero
+
 #### Custom firmwares
+  - Flipper Zero Unleashed Firmware : https://github.com/DarkFlippers/unleashed-firmware
+  - RogueMaster Flipper Zero Firmware : https://github.com/RogueMaster/flipperzero-firmware-wPlugins
+  - 
+#### Interesting research 
+  - CVE-2022-40363 : [Exploiting Flipper Zero’s NFC file loader](https://vvx7.io/posts/2022/09/your-amiibos-haunted/)
+
+#### Flipperzero101
+  - [Flipper Zero - Starter Guide](https://www.youtube.com/watch?v=MJd6qugqHg8&ab_channel=PenAce)
+  - [A collection of Awesome resources for the Flipper Zero device.](https://github.com/djsime1/awesome-flipperzero)
   
+#### Cool Hacks
+  - [Flipper Zero - Starter Guide](https://www.youtube.com/watch?v=MJd6qugqHg8&ab_channel=PenAce)
   
 ********************************************************************************************************************************
 ### ICS
@@ -676,6 +699,8 @@ by Fotios Chantzis, Ioannis Stais, Paulino Calderon, Evangelos Deirmentzoglou, B
   - IoT : https://github.com/Vulcainreo/DVID
 
   - Safe : https://insinuator.net/2016/01/damn-vulnerable-safe/
+
+  - IoT-vulhub : https://vulntotal-team.github.io/IoT-vulhub/#%E5%AE%89%E8%A3%85
 
   - Router : https://github.com/praetorian-code/DVRF
 
